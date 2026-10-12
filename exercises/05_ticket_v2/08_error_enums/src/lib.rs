@@ -25,8 +25,7 @@ fn easy_ticket(title: String, description: String, status: Status) -> Ticket {
                 }
             }
         }
-    }
-    
+    }  
 }
 
 #[derive(Debug, PartialEq)]
